@@ -208,14 +208,14 @@ flex-direction: column;
   text-align: center;
 }
 h2{
-  width: 16ch;
+  width: 13ch;
   font: 500 50px monospace;
   color: #f2dede;
   white-space: nowrap;
   overflow: hidden;
   border-right: 4px solid #f2dede;
   animation: flashing-border .75s step-end infinite,
-  printed-text 2s steps(16);
+  printed-text 2s steps(13);
 }
 @keyframes flashing-border{
   0%{
